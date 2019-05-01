@@ -12,8 +12,8 @@ this document was created on may 1, 2019.
 ---
 ## team 
 
-* *me 
-* *myself
-* *i 
+* *me* 
+* *myself*
+* *i* 
 
 
